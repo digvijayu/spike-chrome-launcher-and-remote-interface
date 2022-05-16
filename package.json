@@ -1,0 +1,25 @@
+{
+  "name": "spike-chrome-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/roxorgaming/personal/digvijay.upadhyay/spike-chrome-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/roxorgaming/personal/digvijay.upadhyay/spike-chrome-dev/issues"
+  },
+  "homepage": "https://gitlab.com/roxorgaming/personal/digvijay.upadhyay/spike-chrome-dev#readme",
+  "dependencies": {
+    "chrome-launcher": "^0.15.0",
+    "chrome-remote-interface": "^0.31.2",
+    "nodemon": "^2.0.16"
+  }
+}
